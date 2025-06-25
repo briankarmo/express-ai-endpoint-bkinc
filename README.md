@@ -1,12 +1,26 @@
 # express-ai-endpoint-bkinc
 
-This is a simple AI-powered API endpoint created by BK Inc.
+A lightweight AI-powered Express.js server by BK Inc. 🔥
+Accepts user input via API, returns OpenAI-style responses.
+Built to showcase API structuring, scalability, and clean server setup.
 
 ## 🔧 Stack
 - Node.js
 - Express
 - dotenv
-- (Optional) OpenAI SDK
+- OpenAI SDK (optional)
+
+## 📁 Structure
+```
+express-ai-endpoint-bkinc/
+├── index.js
+├── .env.example
+├── routes/
+│   └── ai.js
+├── controllers/
+│   └── aiController.js
+└── README.md
+```
 
 ## 🚀 How to Use
 1. Clone the repo
