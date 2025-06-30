@@ -2,7 +2,6 @@
 
 A lightweight AI-powered Express.js server by BK Inc. 🔥
 Accepts user input via API, returns OpenAI-style responses.
-Built to showcase API structuring, scalability, and clean server setup.
 
 ## 🔧 Stack
 - Node.js
